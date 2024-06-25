@@ -1,6 +1,6 @@
 // Akif Artun
 // Go Programming Exercises
-// 03-leap-year
+// 01-declare-empty
 
 package main
 
